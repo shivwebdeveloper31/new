@@ -48,13 +48,7 @@ const Tables = () => {
               </thead>
               <tbody>
               
-              {test.clients.map((data)=>
-      <tr>
-      <td>{data.id}</td>
-      <td>{data.name}</td>
-      <td>{data.company}</td>
-      </tr>
-    )}
+              
                 
     
                 
